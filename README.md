@@ -1,1 +1,1 @@
-# checkoutliquid
+Shopify Plus `checkoutliquid` sample
